@@ -1,5 +1,5 @@
 # Canvas-App-With Gallery-with-Fabric-Database
-Using Patch function and calling stored procedure
+
 
 
 >a>Created Workspace in Microsoft Fabric.
