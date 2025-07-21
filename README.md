@@ -18,8 +18,9 @@ Using Patch function and calling stored procedure
 >
 >h>Below are screen shots.
 >
-https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/FabricTWO.png
 
+![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/FabricTWO.png
+)
 
 
 
