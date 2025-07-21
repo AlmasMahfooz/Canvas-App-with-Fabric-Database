@@ -23,3 +23,4 @@ Using Patch function and calling stored procedure
 
 ![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/Fabric%20table%20-PK.png)
 
+![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/Fabric%20SQL%20connection.png)
