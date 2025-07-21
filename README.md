@@ -24,3 +24,11 @@ Using Patch function and calling stored procedure
 ![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/Fabric%20table%20-PK.png)
 
 ![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/Fabric%20SQL%20connection.png)
+
+![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/Fabric%20-%20db%20alias.png)
+
+![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/App%20Patch%20function.png)
+
+![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/App%20Patch%20function.png)
+
+![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database)
