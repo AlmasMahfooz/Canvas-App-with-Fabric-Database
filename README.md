@@ -18,4 +18,4 @@ Using Patch function and calling stored procedure
 >
 >h>Below are screen shots.
 >
-FabricTWO.png
+
