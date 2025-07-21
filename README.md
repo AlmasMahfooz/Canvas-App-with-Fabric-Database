@@ -16,4 +16,6 @@ Using Patch function and calling stored procedure
 >
 >g>Add new screen and add new gallery.
 >
->h>
+>h>Below are screen shots.
+>
+>
