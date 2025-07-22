@@ -39,7 +39,7 @@
 
 
 
-![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/App%20Patch%20function.png)
+![Uploading image.png…](https://github.com/AlmasMahfooz/Canvas-App-with-Fabric-Database/blob/main/images/Calling%20Fabric%20SP.png)
 
 
 
